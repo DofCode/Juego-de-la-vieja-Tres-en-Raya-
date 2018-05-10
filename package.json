@@ -1,0 +1,14 @@
+{
+  "name": "vieja-juego-vanilla",
+  "version": "1.0.0",
+  "description": "Pequeño juego simple de la vieja hecho con javascript purito...",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "J. Alejandro Arias",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
